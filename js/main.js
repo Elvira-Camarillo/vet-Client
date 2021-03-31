@@ -18,6 +18,6 @@ $ (document).ready( async () => {
       `
     }
   )
-  $('#owners-list').append(owners)
+  $('#owners-list').append(owners);
   console.log(data,json)
 })
